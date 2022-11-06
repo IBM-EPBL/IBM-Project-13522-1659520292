@@ -1,6 +1,3 @@
-#Done by Rakesh Kumar M , Srimukund K G G , Kailash A L , Hariharan M
-
-#Team ID : PNT2022TMID04164
 
 from flask import Flask , render_template
 
